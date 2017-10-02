@@ -3,18 +3,18 @@ Archivos de ejemplo que segui de unos post de maestros del web, esta adjunto los
 
 Contenido del archivo
 
-01-Main
-02-Nuestra primera pagina web
-03-Ejecutar código-JavaScript en ASPNET
-04-Archivos Web.Config y Global
-05-Utilización de código detrás del modelo o código en línea
-06-Controles de servidor y eventos
-07-Controles de usuarios reutilizables
-08-Crear una página de login autenticación y seguridad
-09-Utilización de estilos en asp net css
-10-Trabajando con xml y web services
-11-Acceso a datos consultar y guardar información desde webforms.
-12-Estructura de clases y objetos
-13-Utilización de master pages
-14-Como crear menus de navegación
-15-Utilización de ajax
+01-Main<br>
+02-Nuestra primera pagina web<br>
+03-Ejecutar código-JavaScript en ASPNET<br>
+04-Archivos Web.Config y Global<br>
+05-Utilización de código detrás del modelo o código en línea<br>
+06-Controles de servidor y eventos<br>
+07-Controles de usuarios reutilizables<br>
+08-Crear una página de login autenticación y seguridad<br>
+09-Utilización de estilos en asp net css<br>
+10-Trabajando con xml y web services<br>
+11-Acceso a datos consultar y guardar información desde webforms.<br>
+12-Estructura de clases y objetos<br>
+13-Utilización de master pages<br>
+14-Como crear menus de navegación<br>
+15-Utilización de ajax<br>
